@@ -370,7 +370,7 @@ export const IT = {
   SuperSteelMill: "Cuore di ferro",
   SuperSteelMillDesc:
     "Le acciaierie utilizzano il 50% in meno di carbone, il 25% in più di ferro e il 25% in più di energia",
-  AlSemiconductor: "Al Circuit",
+  AlSemiconductor: "Allum Circuiti",
   AlSemiconductorDesc: "Le fonderie di circuiti utilizzano l'alluminio invece del rame",
   CostSaver: "Risparmio dei costi",
   CostSaverDesc:
@@ -416,55 +416,55 @@ export const IT = {
   Tutorial2:
     "Tutti gli edifici richiedono energia⚡, hai <em>turbine eoliche</em> che generano energia. Puoi vedere lo stato della tua alimentatazione attuale, sul lato sinistro della barra superiore.<br><br>Potresti aver notato che le turbine eoliche funzionano solo l'<em>80%</em> del tempo. Puoi prendere in considerazione la costruzione di altri tipi di centrali elettriche così da generare dell'energia stabile.",
   Tutorial3:
-    "You have a lot of <em>resource deposits</em> on the map. To extract resources, you have to build mines⛏️ <em>on top of</em> the corresponding deposit.<br><br>For example, you have an <em>oil well🛢️</em> that extracts <em>oil</em> from an oil deposit.<br></br>Resource deposits are unlimited - no need to worry about them running out. Apart from mines, other buildings can be built on any empty tile.",
+    "Hai un sacco di <em>depositi di risorse</em> sulla mappa. Per estrarre risorse, Devi costruire miniere⛏️ <em>sul</em> deposito corrispondente.<br><br>Per esempio, hai un <em>pozzo petrolifero🛢️</em> che estrae <em>petrolio</em> presso un deposito di petrolio.<br></br>I depositi di risorse sono illimitati - Non preoccuparti di prosciugarli. Oltre alle miniere, si possono costruire altri edifici su qualsiasi casella vuota.",
   Tutorial5:
-    "To make money, you need to export your resources via the trade center. To do this, simply turn on <em>auto sell</em> for that resource.<br></br>You can also buy resources from the trade center as well. Remember <em>if you buy a resource, you will drive up the price</em> and if you sell a resource, you will drive down the price.<br><br>The market is <em>volatile</em> and the price📈 changes regularly.",
+    "Per fare profitti, Hai bisogno di esportare le tue risorse attraverso il Centro di Scambio. Per fare ciò, semplicemente abilita <em>la vendita automatica</em> per quella risorsa.<br></br>Ricorda, che puoi anche acquistare risorse presso il Centro di Scambio. Ricorda inoltre, che <em>se acquisti una risorsa, farai alzare il prezzo</em> e se vendi, farai abbassare il prezzo.<br><br>Il Mercato è<em>volatile</em> e i prezzi 📈 cambiano regolarmente.",
   Tutorial6:
-    "To build new buildings, you need to unlock it first in the <em>research lab🧪</em>. The research lab also converts science to research points.<br><br>Your wind turbine (and other power plants) produces a small amount of science when running. And you can build school🏫 and other dedicated buildings to boost science later.<br><br>Now you have learned all the basics, start to build up your economy! Here are some <em>cash💸</em> and <em>petrol⛽</em> to give you a jump start.",
-  WelcomePlay: "Play",
-  WelcomePlayMuted: "Play (🔇Music)",
+    "Per costruire nuovi edifici, dovrai sbloccarli prima nel <em>Laboratorio di Ricerca🧪</em>. Il Laboratorio di Ricerca, converte anche la Scienza in Punti ricerca.<br><br>La tua turbina eolica (e le altre centrali elettriche) producono una piccola quantità di Scienza quando in funzione. E, in seguito puoi costruire una scuola🏫 e altri edifici specifici per incrementare la Scienza.<br><br>Adesso hai appreso le nozioni di base, comincia a costruire la tua economia! Ecco a te del <em>denaro💸</em> e della <em>benzina⛽</em> per un inizio più veloce.",
+  WelcomePlay: "Gioca",
+  WelcomePlayMuted: "Gioca (🔇 Senza Musica)",
   Chat: "Chat",
-  RestoreFromBackup: "Restore from Backup",
+  RestoreFromBackup: "Ripristina da Backup",
   RestoreFromBackupFail:
-    "Failed to restore backup from Steam Cloud: are you sure there's a backup?",
-  RestoreFromBackupTitle: "Are you sure?",
+    "Impossibile ripristinare il backup da Steam Cloud: sei sicuro che ci sia un backup?",
+  RestoreFromBackupTitle: "Sei sicuro?",
   RestoreFromBackupDesc:
-    "You normally don't need to restore from cloud backup, unless your local save is lost. Cloud backup are a bit older than your local save",
-  ChangeName: "Change",
-  SaveName: "Save",
+    "Normalmente non è necessario eseguire il ripristino dal backup su cloud, a meno che il salvataggio locale non venga perso. Il backup su cloud è un po' più vecchio del tuo salvataggio locale",
+  ChangeName: "Cambia",
+  SaveName: "Salva",
   NameValidationRule:
-    "Your name should only contain letters and numbers and be between 5-15 chars",
-  NameValidationRuleProfanity: "Your name should not contain profanity",
-  ChatMessageRateLimit: "You can only send a new chat message every 10 seconds",
-  NameSaved: "Your name has been changed successfully",
-  NoMessages: "No new messages",
-  Leaderboard: "Leaderboard",
-  Name: "Name",
+    "Il tuo nome deve contenere solo lettere e numeri ed essere compreso tra 5 e 15 caratteri",
+  NameValidationRuleProfanity: "Il tuo nome non deve contenere parolacce",
+  ChatMessageRateLimit: "Puoi inviare un nuovo messaggio di chat solo ogni 10 secondi",
+  NameSaved: "Il tuo nome è stato cambiato con successo",
+  NoMessages: "Nessun nuovo messaggio",
+  Leaderboard: "Classifica",
+  Name: "Nome",
   Tips1:
-    "Stock ratings have 5 levels: Buy, Overperform, Hold, Underperform and Sell",
+    "Stock ratings ha 5 diversi livelli: Buy, Overperform, Hold, Underperform and Sell",
   Tips2:
-    "Buildings will stop transporting resources if there's already enough for production, unless you turn on stockpile mode",
+    "Gli edifici smetteranno di trasportare risorse se ce n'è già abbastanza per la produzione, a meno che tu non attivi la 'modalità di accumulo'",
   Tips3:
-    "Fuel cost for resource transportation is determined by distance and amount of resources",
+    "Il costo del carburante per il trasporto delle risorse è determinato dalla distanza e dalla quantità di risorse",
   Tips4:
-    "Buildings will only transport a resource if the amount found on map exceeds the input capacity",
+    "Gli edifici trasporteranno una risorsa solo se la quantità trovata sulla mappa supera la capacità di input",
   Tips5:
-    "Buildings will only transport a resource from Trade Center if auto sell is turned off for that resource",
+    "Gli edifici trasporteranno una risorsa dal Centro di Scambio solo se la vendita automatica è disattivata per quella risorsa",
   Tips6:
-    "You can see the fuel cost for a resource under the corresponding input capacity section",
+    "Puoi vedere il costo del carburante per una risorsa nella sezione relativa alla capacità di input",
   Tips7:
-    "If you buy a resource, you will drive up the price. If you sell a resource, you will drive down the price",
+    "Se acquisti una risorsa, aumenterai il prezzo. Se vendi una risorsa, ne abbasserai il prezzo",
   Tips8:
-    "You can see the chart for each resource's amount and its change over time in Statistics Bureau",
+    "Puoi vedere il grafico per la quantità di ciascuna risorsa e la sua variazione nel tempo nell'Ufficio Statistiche",
   Tips9:
-    "Research points needed for a building is determined by the market price of it's input resources",
+    "I punti di ricerca necessari per un edificio sono determinati dal prezzo di mercato delle sue risorse di input",
   Tips10:
-    "Different resources are priced differently in market - always be prepared for market volatility",
+    "Diverse risorse hanno un prezzo diverso sul mercato: sii sempre preparato alla volatilità del mercato",
   Tips11:
-    "It's a good idea to always check your power and fuel supply before expanding your production",
-  FPS30: "Energy Saving",
+    "È una buona idea controllare sempre il livello di alimentazione e la fornitura di carburante prima di espandere la produzione",
+  FPS30: "Risparmio energia",
   OfflineModeDesc:
-    "Cannot connect to the server: offline earnings will not be generated. Please check your internet connection",
+    "Impossibile connettersi al server: i guadagni offline non verranno generati. Per favore controlla la tua connessione Internet",
   OptOut: "Opt Out",
   OptIn: "Reset and Enable",
   LeaderboardOptOut: "Leaderboard Opt-Out",
